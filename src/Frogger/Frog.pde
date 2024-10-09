@@ -1,4 +1,4 @@
-class Frog {
+\class Frog {
   // Member Variables
   int x,y,w,h,speed,health,lives;
   PImage f1;
